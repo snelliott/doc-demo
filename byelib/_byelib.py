@@ -3,9 +3,12 @@
 
 
 def bid_me_goodbye(name='Jim'):
-    """ bid_me_goodbye by name
+    """ Bid me goodbye by name
 
     :param name: my name
     :type name: str
+    :returns: nothing
+    :rtype: NoneType
+
     """
     print("Goodbye, {:s}!".format(name))
