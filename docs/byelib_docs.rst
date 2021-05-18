@@ -1,0 +1,3 @@
+.. automodule:: byelib
+    :members:
+
